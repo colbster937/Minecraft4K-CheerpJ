@@ -2,4 +2,4 @@
 
 Minecraft 4K In Browser, Using [CheerpJ](https://cheerpj.com)!
 
-[Demo Page!](https://minecraft4k.pages.dev)
+[Demo Page!](https://mc4k.pages.dev)
