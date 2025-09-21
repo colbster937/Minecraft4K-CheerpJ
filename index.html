@@ -1,38 +1,28 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Minecraft 4K - CheerpJ</title>
-    <style>
-        html, body { 
-            margin: 0; 
-            padding: 0; 
-            overflow: hidden; 
-            width: 100%; 
-            height: 100%; 
-            display: flex; 
-            flex-direction: column; 
-            justify-content: center; 
-            align-items: center; 
-            background-color: #000; 
-            color: white; 
-            font-family: Arial, sans-serif; 
-        }
-        h1 { 
-            margin-bottom: 20px; 
-            font-size: 24px; 
-        }
-    </style>
-    <script src="https://cjrtnc.leaningtech.com/4.0/loader.js"></script>
-</head>
-<body>
-    <h1>
-        <a href="https://minecraft.wiki/w/Minecraft_4k" target="_blank">Minecraft 4K</a>
-    </h1>
-    <cheerpj-applet archive="M.jar" code="M" width="856" height="480">
-        <b>Loading CheerpJ v4.0..<b>
-    </cheerpj-applet>
-  <script type="module">
-    await cheerpjInit();
+  <meta charset="UTF-8">
+  <script src="classes.js"></script>
+  <title>Minecraft 4k</title>
+  <style>
+    html, body {
+      margin: 0;
+      height: 100%;
+      overflow: hidden;
+    }
+
+    canvas {
+      display: block;
+      border: none;
+      outline: none;
+    }
+  </style>
+  <script>
+    window.addEventListener('load', () => {
+      main()
+    });
   </script>
+</head>
+<body id="game_frame">
 </body>
 </html>
