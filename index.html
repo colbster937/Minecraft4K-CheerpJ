@@ -5,17 +5,15 @@
   <script src="classes.js"></script>
   <title>Minecraft 4k</title>
   <style>
-    body {
-      margin: 0;
+    html, body {
       display: flex;
       flex-direction: column;
       align-items: center;
     }
 
     canvas {
-      width: 856px;
-      height: 480px;
       display: block;
+      border: none;
       outline: none;
     }
   </style>
@@ -25,7 +23,8 @@
     });
   </script>
 </head>
-<body id="game_frame">
-<h1>Minecraft 4k</h1>
+<body>
+  <h1>Minecraft 4k</h1>
+  <canvas id="game_frame" width="856" height="480"></canvas>
 </body>
 </html>
