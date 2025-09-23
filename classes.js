@@ -107,20 +107,6 @@ Dx([]);
 CW([D,0,0,[],0,3,0,0,0,Ct,0,D,[],3,3,0,0,0,CN,0,D,[],3,3,0,0,0,CM,0,D,[Ct,CN],4,3,0,0,0,Eb,0,D,[],4,3,0,0,0,EL,0,D,[],4,3,0,0,0,By,0,D,[],0,3,0,0,0,I,0,By,[],0,3,0,0,0,R,0,I,[],0,3,0,0,0,E5,0,R,[],0,3,0,0,0,Bz,0,D,[],3,3,0,0,0,BT,0,D,[],3,3,0,0,0,Cb,0,D,[],3,3,0,0,0,O,0,D,[Bz,BT,Cb],0,3,0,0,0,B0,0,D,[Bz],1,3,0,0,0,Ev,0,B0,[BT],0,3,0,0,0,Cg,0,D,[Bz,Cb],0,0,0,0,0,Dq,0,D,[],3,3,0,0,0,C0,0,Cg,[Dq],0,3,0,0,0,D2,0,D,[],0,3,0,0,0,Et,0,D,[],0,3,0,0,0,En,0,D,[],0,3,0,0,0,Dd,0,D,[],0,3,0,P,0,EV,0,D,[],4,3,0,0,0,DT,0,
 D,[],0,3,0,0,0,EW,0,D,[],0,3,0,0,0,B1,0,D,[],0,3,0,0,0,Cr,0,D,[],3,3,0,0,0,Dg,0,B1,[Cr],0,3,0,0,0,Bn,0,D,[],3,3,0,0,0,Z,0,D,[Bn],3,3,0,0,0,B9,0,D,[Z],0,3,0,0,0,L,0,D,[],4,3,0,0,0,B7,0,D,[Z],0,3,0,0,0,B8,0,D,[Z],0,3,0,0,0,B5,0,D,[Z],0,3,0,0,0,B6,0,D,[Z],0,3,0,0,0,B3,0,D,[Z],0,3,0,0,0,B4,0,D,[Z],0,3,0,0,0,B$,0,D,[Z],0,3,0,0,0,B_,0,D,[Z],0,3,0,0,0,Da,0,D,[],3,3,0,0,0,BV,0,D,[Da],0,3,0,0,0,Cn,0,D,[BT],0,3,0,0,0,DC,0,D,[],4,3,0,0,0,Do,0,D,[],0,3,0,0,0,BU,0,R,[],0,3,0,0,0,Cm,0,D,[Cr],0,3,0,0,0,Cf,0,D,[],0,3,0,0,0,Bi,
 0,Cf,[],0,3,0,0,0]);
-<<<<<<< HEAD
-CW([CD,0,D,[],3,3,0,0,0,C0,0,D,[CD],0,3,0,0,0,D1,0,D,[],4,3,0,0,0,Bv,0,D,[],3,3,0,0,0,Ds,0,D,[Bv],0,3,0,0,["o",B3(EF)],D6,0,D,[],4,3,0,0,0,BN,0,D,[],0,0,0,0,0,BP,0,R,[],0,3,0,0,0,Fb,0,D,[Bm],1,3,0,0,0,Ck,0,D,[],3,3,0,0,0,E6,0,D,[Bv,Ck],3,0,0,0,0,CA,0,R,[],0,3,0,0,0,CB,0,D,[Bv],0,3,0,0,["o",B3(Ew)],E5,0,D,[],4,3,0,0,0,Dq,0,D,[],0,0,0,BA,0,Eq,0,D,[Bm],0,3,0,0,0,C8,0,D,[],3,3,0,0,0,CJ,0,D,[C8],0,0,0,0,["e",CT(DV),"be",CT(Fa)],Dc,0,D,[Bv],0,3,0,0,0,DW,0,D,[Bm],1,3,0,0,0,Cd,0,D,[Bm],3,0,0,0,0,Cj,0,D,[Cd],0,3,0,0,
-0,Ci,0,D,[Cd],0,3,0,0,0,Cl,0,BU,[],0,3,0,0,0,Dn,0,D,[],3,3,0,0,0,CG,0,D,[Dn,By],0,3,0,0,0,Do,0,D,[],0,3,0,0,0,CE,0,D,[],0,3,0,0,0,Cx,0,D,[],0,3,0,0,0,E$,0,D,[],0,3,0,0,0,CL,0,D,[],3,3,0,0,0,CU,0,D,[Bv,Ck,CL],0,0,0,0,["o",B3(Dx)],Cv,0,R,[],0,3,0,0,0]);
-let D$=BB(EV),EB=BB(BX),Df=BB(Cq);
-Eu(["Can\'t enter monitor from another thread synchronously","<java_object>@","null","game_frame","0","object","function","string","number","undefined","main"]);
-O.prototype.toString=function(){return BM(this);};
-O.prototype.valueOf=O.prototype.toString;D.prototype.toString=function(){return BM(EL(this));};
-D.prototype.__teavm_class__=function(){return ED(this);};
-let C=DG(Eg);
-C.javaException=DN;
-let Fi=Symbol('jsoClass');
-(()=>{let c;c=B$.prototype;c.handleEvent=W(ER);c=B8.prototype;c.handleEvent=W(DX);c=B9.prototype;c.handleEvent=W(D5);c=B6.prototype;c.handleEvent=W(Ev);c=B7.prototype;c.handleEvent=W(E4);c=B4.prototype;c.handleEvent=W(EA);c=B5.prototype;c.handleEvent=W(Dv);c=B_.prototype;c.handleEvent=W(Ef);c=Ca.prototype;c.handleEvent=W(DK);c=Cj.prototype;c.accept=W(EN);c=Ci.prototype;c.accept=W(E0);})();
-B.main=C;}));
-=======
 CW([CE,0,D,[],3,3,0,0,0,CZ,0,D,[CE],0,3,0,0,0,D1,0,D,[],4,3,0,0,0,Bv,0,D,[],3,3,0,0,0,Dr,0,D,[Bv],0,3,0,0,["o",B2(EH)],D6,0,D,[],4,3,0,0,0,BM,0,D,[],0,0,0,0,0,BP,0,R,[],0,3,0,0,0,Fd,0,D,[Bn],1,3,0,0,0,Ck,0,D,[],3,3,0,0,0,E8,0,D,[Bv,Ck],3,0,0,0,0,CA,0,R,[],0,3,0,0,0,CC,0,D,[Bv],0,3,0,0,["o",B2(Ey)],E7,0,D,[],4,3,0,0,0,Dp,0,D,[],0,0,0,BB,0,Es,0,D,[Bn],0,3,0,0,0,C8,0,D,[],3,3,0,0,0,CJ,0,D,[C8],0,0,0,0,["e",CT(DV),"bd",CT(Fc)],Dc,0,D,[Bv],0,3,0,0,0,DW,0,D,[Bn],1,3,0,0,0,Cd,0,D,[Bn],3,0,0,0,0,Cj,0,D,[Cd],0,3,0,0,
 0,Ci,0,D,[Cd],0,3,0,0,0,Cl,0,BU,[],0,3,0,0,0,Dm,0,D,[],3,3,0,0,0,CH,0,D,[Dm,Bz],0,3,0,0,0,Dn,0,D,[],0,3,0,0,0,CF,0,D,[],0,3,0,0,0,Cx,0,D,[],0,3,0,0,0,Fa,0,D,[],0,3,0,0,0,CL,0,D,[],3,3,0,0,0,CU,0,D,[Bv,Ck,CL],0,0,0,0,["o",B2(Dw)],Cv,0,R,[],0,3,0,0,0]);
 let D_=Bs(EX),ED=Bs(BX),Df=Bs(Cq),Er=Bs(Ec);
@@ -133,4 +119,3 @@ C.javaException=DM;
 let Fj=Symbol('jsoClass');
 (()=>{let c;c=B9.prototype;c.handleEvent=W(ES);c=B7.prototype;c.handleEvent=W(DX);c=B8.prototype;c.handleEvent=W(D5);c=B5.prototype;c.handleEvent=W(Ex);c=B6.prototype;c.handleEvent=W(E6);c=B3.prototype;c.handleEvent=W(EC);c=B4.prototype;c.handleEvent=W(Du);c=B$.prototype;c.handleEvent=W(Eg);c=B_.prototype;c.handleEvent=W(DJ);c=Cj.prototype;c.accept=W(EP);c=Ci.prototype;c.accept=W(E2);})();
 B.main=C;}));
->>>>>>> 232a401 (optimize some stuff)
